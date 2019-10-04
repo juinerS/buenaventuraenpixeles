@@ -2,7 +2,7 @@
 .banner{
     position: relative;
     width: 100%;
-    height: calc(90vh - 70px);
+    height: calc(80vh - 70px);
     background-color: #f5f5f5;
     background-size: cover;
     background-position: center;
